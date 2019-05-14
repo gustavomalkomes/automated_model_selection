@@ -1,4 +1,4 @@
-files = dir('./tests');
+files = dir('./tests/unit_tests/');
 counter = 1;
 test_output = {};
 for i = 1:length(files)

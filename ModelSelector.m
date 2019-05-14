@@ -77,6 +77,7 @@ classdef ModelSelector < handle
         time.total_time_model_space = total_time_model_space;
         time.total_time_strategy = total_time_strategy;
         time.total_time_oracle = total_time_fitness;
+        
         end
     end
     
