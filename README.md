@@ -9,7 +9,7 @@ training each candidate kernel is considered an expensive process.
 ### Bayesian Optimization for automated model selection
 
 Our main tool is the method "Bayesian optimization for
-automated model selection" (BOMS) presented in:
+automated model selection" (BOMS) presented in: 
 
 > Gustavo Malkomes, Charles Schaff, and Roman Garnett.
 > Bayesian optimization for automated model selection
